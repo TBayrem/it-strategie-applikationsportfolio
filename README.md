@@ -1,5 +1,7 @@
 # IT-Strategie für einen Mittelständler: Fallstudie Informationsmanagement
 
+**Webseite mit Prototyp zum Ausprobieren:** https://tbayrem.github.io/it-strategie-applikationsportfolio/
+
 Fallstudie im Modul *Informationsmanagement* (M.Sc. Wirtschaftsinformatik, Hochschule Worms) von Sarah Hauschildt und Bayrem Trabelsi. Das Unternehmen (Ratzfatz, Hersteller von Waschmaschinen, Großwaschanlagen und Reinigungsmitteln) ist ein fiktiver Lehrfall.
 
 ## Inhalt
